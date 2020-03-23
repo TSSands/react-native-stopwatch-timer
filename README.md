@@ -1,3 +1,8 @@
+# FORKED FROM https://github.com/michaeljstevens/react-native-stopwatch-timer
+This was forked from the original repo because we discovered several places that produced
+memory leaks. A PR was made to the original repo (https://github.com/michaeljstevens/react-native-stopwatch-timer/pull/24), but because we don't know when that
+will be merged, we opted to use a fork that fixes the issuees until then.
+
 ## React Native Stopwatch Timer
 
 A React Native component that provides a stopwatch and timer.
