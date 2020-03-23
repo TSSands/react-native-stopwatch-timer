@@ -1,7 +1,7 @@
 # FORKED FROM [react-native-stopwatch-timer](https://github.com/michaeljstevens/react-native-stopwatch-timer)
 This was forked from the original repo because we discovered several places that produced
 memory leaks. A [PR](https://github.com/michaeljstevens/react-native-stopwatch-timer/pull/24) was made to the original repo, but because we don't know when that
-will be merged, we opted to use a fork that fixes the issuees until then.
+will be merged, we opted to use a fork that fixes the issues until then.
 
 ## React Native Stopwatch Timer
 
